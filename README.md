@@ -16,6 +16,11 @@
 
 ### 👨‍💻: About Me : I am a web development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
+### My contacts: 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/keepsake666)  @keepsake666 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](mailto:veselovsa@list.ru)  veselovsa@list.ru
+
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   
