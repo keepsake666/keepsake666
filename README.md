@@ -21,7 +21,7 @@ I enjoy creating something new
 
 
 ### My contacts: 
-[<img src='https://cdn.simpleicons.org/telegram/white' alt='telegram' height='40'>](https://t.me/keepsake666) &nbsp;    [<img src='https://cdn.simpleicons.org/maildotru/white' alt='mail-dot-ru' height='40'>](mailto:veselovsa@list.ru)  
+[<img src='https://cdn.simpleicons.org/telegram' alt='telegram' height='40'>](https://t.me/keepsake666) &nbsp;    [<img src='https://cdn.simpleicons.org/maildotru' alt='mail-dot-ru' height='40'>](mailto:veselovsa@list.ru)  
 
 
 ### :hammer_and_wrench: Languages and Tools :
