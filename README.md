@@ -1,50 +1,115 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-
-</div>
-  <img src="https://komarev.com/ghpvc/?username=keepsake666&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
 <div align="center">
-  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" max-width="600" height="300"/>
-
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+  
+  # Привет! Я Веб-разработчик 👋
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+TypeScript+Enthusiast;Always+learning+new+technologies;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  
+  <img src="https://komarev.com/ghpvc/?username=keepsake666&style=for-the-badge&color=36BCF7" alt="Profile Views"/>
 </div>
 
-### 👨‍💻 About Me :
-I am a web development<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. <br />
-Student Yandex.Practicum <br />
-I enjoy creating something new
+---
 
+## 🚀 О себе
 
-### My contacts: 
-[<img src='https://cdn.simpleicons.org/telegram' alt='telegram' height='40'>](https://t.me/keepsake666) &nbsp;    [<img src='https://cdn.simpleicons.org/maildotru' alt='mail-dot-ru' height='40'>](mailto:veselovsa@list.ru)  
+```typescript
+const developer = {
+  name: "Веселов Сергей",
+  location: "Russia 🇷🇺",
+  education: "Яндекс.Практикум",
+  role: "Frontend Developer",
+  languages: ["JavaScript", "TypeScript", "Russian", "English"],
+  currentFocus: "React Ecosystem & Modern Web Development",
+  interests: ["Web Performance", "UI/UX", "Clean Code"],
+  motto: "Code with passion, learn with curiosity! 🎯"
+};
+```
 
+---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+## 🛠️ Технологический стек
+
+### Frontend
+<div align="center">
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"
-  height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40"
-  height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" title="Nest" alt="Nest" width="40"
-  height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Ex" alt="Ex" width="40"
-  height="40"/>&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original-wordmark.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
+</div>
 
-  ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=keepsake666&theme=dark&background=000000)](https://git.io/streak-stats)
+### Backend & Tools
+<div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keepsake666&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
   
+</div>
+
+---
+
+## 📈 GitHub Статистика
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keepsake666&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keepsake666&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=keepsake666&theme=tokyonight&background=1A1B27&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakNum=70A5FD&sideNums=70A5FD&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=9AA5CE" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 GitHub Трофеи
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keepsake666&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📊 Активность
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keepsake666&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🤝 Давайте общаться!
+
+<div align="center">
+  
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/keepsake666)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veselovsa@list.ru)
+  
+  
+</div>
+
+---
+
+## 💡 Текущие проекты
+
+🔭 Сейчас работаю над **React приложениями с TypeScript**  
+🌱 Изучаю **Next.js и современные паттерны разработки**  
+👯 Открыт для **коллабораций и интересных проектов**  
+💬 Спрашивайте меня о **React, TypeScript, веб-разработке**  
+⚡ Факт: **Обожаю чистый код и красивый UI** ✨
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  
+  **Спасибо за посещение моего профиля!**
+  
+  ![Made with ❤️ in Russia](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20in-Russia-red?style=for-the-badge)
+</div>
